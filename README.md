@@ -1,4 +1,3 @@
-# IT-to-CyberSecurity-Journey
 # IT to Cybersecurity Journey
 
 Hi, I'm Protik Roy. I have 5 years of experience in IT support and I'm transitioning into cybersecurity.  
