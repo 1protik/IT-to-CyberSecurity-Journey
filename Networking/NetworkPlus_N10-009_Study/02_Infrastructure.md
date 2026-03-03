@@ -1,5 +1,5 @@
 # 📘 Domain 2: Infrastructure
-*CompTIA Network+ N10-009 Training Notes - Professor Messer’s*
+*CompTIA Network+ N10-009 Notes*
 
 This section covers routing, switching, wireless, and cabling technologies that form the backbone of network infrastructure.
 
