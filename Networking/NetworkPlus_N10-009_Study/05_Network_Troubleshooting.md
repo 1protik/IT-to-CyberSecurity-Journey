@@ -1,5 +1,5 @@
 # 📘 Domain 5: Network Troubleshooting
-*CompTIA Network+ N10-009 Training Notes*
+*CompTIA Network+ N10-009 Training Notes - Professor Messer’s*
 
 This section covers troubleshooting methodologies, common issues, and tools used to diagnose and resolve network problems.
 
