@@ -1,5 +1,5 @@
 # 📘 Domain 3: Network Operations
-*CompTIA Network+ N10-009 Training Notes*
+*CompTIA Network+ N10-009 Training Notes - Professor Messer’s*
 
 This section focuses on monitoring, documentation, policies, and procedures that ensure networks run smoothly and securely.
 
