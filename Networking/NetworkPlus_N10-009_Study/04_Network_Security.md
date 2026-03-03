@@ -1,5 +1,5 @@
 # 📘 Domain 4: Network Security
-*CompTIA Network+ N10-009 Training Notes*
+*CompTIA Network+ N10-009 Training Notes - Professor Messer’s*
 
 This section covers security concepts, technologies, and practices to protect networks from threats and vulnerabilities.
 
