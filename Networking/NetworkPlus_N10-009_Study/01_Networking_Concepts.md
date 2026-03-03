@@ -1,4 +1,4 @@
-# 📘 Domain 1: Networking Concepts
+# 📘 Domain 1: Networking Concepts - Professor Messer’s
 *CompTIA Network+ N10-009 Training Notes*
 
 This repository provides written summaries of key networking concepts, so learners can study without watching the videos.
