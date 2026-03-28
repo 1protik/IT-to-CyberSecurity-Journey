@@ -8,13 +8,13 @@ This repository provides written summaries of key networking concepts.
 ## 🔹 1.1 Understanding the OSI Model
 The OSI (Open Systems Interconnection) Model is a **conceptual framework** that standardizes how data is transmitted across networks. It divides communication into **seven layers**, each with a specific role.
 
-**Physical Layer (Layer 1)**: Responsible for the physical connection, transferring raw data bits over physical media (cables, radio waves). Includes protocols like Ethernet, Wi-Fi, and Bluetooth. <br>
-**Data Link Layer (Layer 2)**: Handles node-to-node data transfer, framing, and error detection/correction. It uses MAC addresses to identify devices. <br>
-**Network Layer (Layer 3)**: Responsible for routing data packets across different networks using IP addresses, ensuring they reach their destination. <br>
-**Transport Layer (Layer 4)**: Manages end-to-end communication, controlling flow, error checking, and segmenting data. Common protocols include TCP and UDP. <br>
-**Session Layer (Layer 5)**: Establishes, manages, and terminates connections (sessions) between local and remote applications. <br>
-**Presentation Layer (Layer 6)**: Translates, encrypts, and formats data for the application layer to ensure it is usable. <br>
-**Application Layer (Layer 7)**: The closest layer to the end-user, providing network services to applications like web browsers or email clients.
+**Physical Layer (Layer 1):** Responsible for the physical connection, transferring raw data bits over physical media (cables, radio waves). Includes protocols like Ethernet, Wi-Fi, and Bluetooth. <br>
+**Data Link Layer (Layer 2):** Handles node-to-node data transfer, framing, and error detection/correction. It uses MAC addresses to identify devices. <br>
+**Network Layer (Layer 3):** Responsible for routing data packets across different networks using IP addresses, ensuring they reach their destination. <br>
+**Transport Layer (Layer 4):** Manages end-to-end communication, controlling flow, error checking, and segmenting data. Common protocols include TCP and UDP. <br>
+**Session Layer (Layer 5):** Establishes, manages, and terminates connections (sessions) between local and remote applications. <br>
+**Presentation Layer (Layer 6):** Translates, encrypts, and formats data for the application layer to ensure it is usable. <br>
+**Application Layer (Layer 7):** The closest layer to the end-user, providing network services to applications like web browsers or email clients.
 
 | Layer        | Function                                | Examples              |
 |--------------|-----------------------------------------|-----------------------|
@@ -26,7 +26,7 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 | Data Link    | MAC addressing, switching               | Ethernet, PPP         |
 | Physical     | Hardware, signals, cables               | Fiber, Copper         |
 
-**How the Layers Work**
+**How the Layers Work:**
 
 Client Side (Sending): Data moves down from Layer 7 to Layer 1. Each layer adds its own "header" (information) to the data—a process called encapsulation. <br>
 Server Side (Receiving): Data moves up from Layer 1 to Layer 7. Each layer strips away its corresponding header to reveal the original message—this is de-encapsulation.
