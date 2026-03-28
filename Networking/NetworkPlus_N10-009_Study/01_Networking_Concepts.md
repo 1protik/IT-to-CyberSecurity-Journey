@@ -32,7 +32,8 @@ Client Side (Sending): Data moves down from Layer 7 to Layer 1. Each layer adds 
 Server Side (Receiving): Data moves up from Layer 1 to Layer 7. Each layer strips away its corresponding header to reveal the original message—this is de-encapsulation.
 
 **Key Notes:**
-- Tricks to memorize : ***P***lease ***D***o ***N***ot ***T***hrow ***S***ausage ***P***izza ***A***way
+- Tricks to memorize : <p>Layer 1 to Layer 7 - ***P***lease ***D***o ***N***ot ***T***hrow ***S***ausage ***P***izza ***A***way
+  <p>Layer 7 to Layer 1 - ***A***ll ***P***eople ***S***eem ***T***o ***N***eed ***D***ata ***P***rocessing
 - OSI is **theoretical**, TCP/IP is **practical**.
 - Each layer depends on the one below it.
 - Useful for **troubleshooting** network issues.
