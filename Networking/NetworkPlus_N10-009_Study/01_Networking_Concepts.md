@@ -27,7 +27,7 @@ Application Layer (Layer 7): The closest layer to the end-user, providing networ
 | Physical     | Hardware, signals, cables               | Fiber, Copper         |
 
 **Key Notes:**
-- Tricks to memorize : *P*lease *D*o *N*ot *T*hrow *S*ausage *P*izza *A*way
+- Tricks to memorize : ***P***lease ***D***o ***N***ot ***T***hrow ***S***ausage ***P***izza ***A***way
 - OSI is **theoretical**, TCP/IP is **practical**.
 - Each layer depends on the one below it.
 - Useful for **troubleshooting** network issues.
