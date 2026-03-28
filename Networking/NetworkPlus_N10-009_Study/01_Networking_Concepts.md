@@ -8,7 +8,7 @@ This repository provides written summaries of key networking concepts.
 ## 🔹 1.1 Understanding the OSI Model
 The OSI (Open Systems Interconnection) Model is a **conceptual framework** that standardizes how data is transmitted across networks. It divides communication into **seven layers**, each with a specific role.
 
-Physical Layer (Layer 1): Responsible for the physical connection, transferring raw data bits over physical media (cables, radio waves). Includes protocols like Ethernet, Wi-Fi, and Bluetooth.
+Physical Layer (Layer 1): Responsible for the physical connection, transferring raw data bits over physical media (cables, radio waves). Includes protocols like Ethernet, Wi-Fi, and Bluetooth. <br>
 Data Link Layer (Layer 2): Handles node-to-node data transfer, framing, and error detection/correction. It uses MAC addresses to identify devices.
 Network Layer (Layer 3): Responsible for routing data packets across different networks using IP addresses, ensuring they reach their destination.
 Transport Layer (Layer 4): Manages end-to-end communication, controlling flow, error checking, and segmenting data. Common protocols include TCP and UDP.
