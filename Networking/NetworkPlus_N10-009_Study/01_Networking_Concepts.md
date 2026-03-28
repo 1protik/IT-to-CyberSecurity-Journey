@@ -29,8 +29,9 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 How the Layers Work
 The arrows in the image illustrate the flow of data depending on whether you are the sender or the receiver:
 
-Client Side (Sending): Data moves down from Layer 7 to Layer 1. Each layer adds its own "header" (information) to the data—a process called encapsulation. <br>
-Server Side (Receiving): Data moves up from Layer 1 to Layer 7. Each layer strips away its corresponding header to reveal the original message—this is de-encapsulation.
+**Client Side (Sending)**: 
+Data moves down from Layer 7 to Layer 1. Each layer adds its own "header" (information) to the data—a process called encapsulation. <br>
+**Server Side (Receiving)**: Data moves up from Layer 1 to Layer 7. Each layer strips away its corresponding header to reveal the original message—this is de-encapsulation.
 
 **Key Notes:**
 - Tricks to memorize : ***P***lease ***D***o ***N***ot ***T***hrow ***S***ausage ***P***izza ***A***way
