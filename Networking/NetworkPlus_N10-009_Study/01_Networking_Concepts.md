@@ -26,8 +26,7 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 | Data Link    | MAC addressing, switching               | Ethernet, PPP         |
 | Physical     | Hardware, signals, cables               | Fiber, Copper         |
 
-How the Layers Work
-The arrows in the image illustrate the flow of data depending on whether you are the sender or the receiver:
+**How the Layers Work**
 
 **Client Side (Sending)**: 
 Data moves down from Layer 7 to Layer 1. Each layer adds its own "header" (information) to the data—a process called encapsulation. <br>
