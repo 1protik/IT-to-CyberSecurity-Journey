@@ -24,7 +24,7 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 | Transport    | Reliable delivery, error checking       | TCP, UDP                          |
 | Network      | Routing, logical addressing             | IP, ICMP                          |
 | Data Link    | MAC addressing, switching               | Ethernet, PPP                     |
-| Physical     | Hardware, signals, cables               | Fiber, Copper                     |
+| Physical     | Hardware, signals, cables               | Cables, Fiber, Copper             |
 
 **How the Layers Work:**
 
