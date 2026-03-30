@@ -18,7 +18,7 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 
 | Layer        | Function                                | Examples              |
 |--------------|-----------------------------------------|-----------------------|
-| Application  | Interfaces with user applications       | HTTP, FTP, SMTP       |
+| Application  | Interfaces with user applications       | HTTP, FTP, DNS, POP3  |
 | Presentation | Data formatting, encryption, compression| SSL/TLS, JPEG         |
 | Session      | Manages sessions between devices        | NetBIOS, RPC          |
 | Transport    | Reliable delivery, error checking       | TCP, UDP              |
