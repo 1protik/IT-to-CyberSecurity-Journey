@@ -16,15 +16,15 @@ The OSI (Open Systems Interconnection) Model is a **conceptual framework** that 
 **Presentation Layer (Layer 6):** Translates, encrypts, and formats data for the application layer to ensure it is usable. <br>
 **Application Layer (Layer 7):** The closest layer to the end-user, providing network services to applications like web browsers or email clients.
 
-| Layer        | Function                                | Examples              |
-|--------------|-----------------------------------------|-----------------------|
-| Application  | Interfaces with user applications       | HTTP, FTP, DNS, POP3  |
-| Presentation | Data formatting, encryption, compression| SSL/TLS, JPEG         |
-| Session      | Manages sessions between devices        | NetBIOS, RPC          |
-| Transport    | Reliable delivery, error checking       | TCP, UDP              |
-| Network      | Routing, logical addressing             | IP, ICMP              |
-| Data Link    | MAC addressing, switching               | Ethernet, PPP         |
-| Physical     | Hardware, signals, cables               | Fiber, Copper         |
+| Layer        | Function                                | Examples                          |
+|--------------|-----------------------------------------|-----------------------            |
+| Application  | Interfaces with user applications       | HTTP, FTP, DNS, POP3              |
+| Presentation | Data formatting, encryption, compression| SSL/TLS, ZIP, UTF-8, JPEG         |
+| Session      | Manages sessions between devices        | NetBIOS, RPC                      |
+| Transport    | Reliable delivery, error checking       | TCP, UDP                          |
+| Network      | Routing, logical addressing             | IP, ICMP                          |
+| Data Link    | MAC addressing, switching               | Ethernet, PPP                     |
+| Physical     | Hardware, signals, cables               | Fiber, Copper                     |
 
 **How the Layers Work:**
 
